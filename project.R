@@ -187,7 +187,7 @@
     s7 <-summary(m7)
     print(s7)
     
-    #the 6 trade-offs of the final model
+    #the 6 trade-offs of the final model, hence the significant descriptors of performance
     print(gp_trade.off.1)
     paste0(trade.off.1$character, " ", trade.off.1$.level)
     print(gp_trade.off.2)
