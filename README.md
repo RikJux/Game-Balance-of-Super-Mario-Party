@@ -11,3 +11,5 @@ For each pair of resources a die can be seen as a market basket and therefore co
 From the games we can have an idea of which die is better than the other through the frequency of victories for each character; basically a dice ranking based on victories, or a performance dice ranking.
 
 The objective is: Determine which trade-off rankings are significant descriptors of the performance dice-ranking
+
+FURTHER INFORMATION ABOUT DATA: https://www.kaggle.com/riccardogiussani/super-mario-party-dice
